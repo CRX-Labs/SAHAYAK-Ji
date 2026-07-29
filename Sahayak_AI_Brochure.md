@@ -9,12 +9,9 @@
 Prepared as a complete project brochure for students, professors, judges, developers, investors, organizers, and college management.
 
 ---
-
-[IMAGE PLACEHOLDER]
-
-**Prompt:**
-Create a premium modern cover page illustration in Google Material Design style. White background with soft blue and white gradient accents. Center: a large rounded glass-morphism card showing the text "Sahayak AI" in a bold modern sans-serif font (like Google Sans), with the tagline "One Form. Everything Automated." underneath in a lighter weight. Around the card, show minimal flat-style icons floating: a Google Form icon, a checkmark shield (validation), a certificate icon, a bar chart icon, and a chat bubble icon, connected by thin blue dotted lines suggesting automation flow. Add a soft gradient background transitioning from white to light blue at the edges. Use a professional color palette of Google Blue (#4285F4), white, and soft gray. High resolution, presentation-quality, 16:9 aspect ratio.
-
+<p align="center">
+<img src="assets/Banner.png" alt="Dashboard" width="900">
+</p>
 ---
 
 ## 1. Cover Page
@@ -283,10 +280,9 @@ Attendance Automation replaces the paper sign-in sheet with a digital system —
 
 Attendance updates the Organizer Dashboard live, so organizers always know real-time headcounts — useful for deciding when to start a session or order food for a certain number of people.
 
-[IMAGE PLACEHOLDER]
-
-**Prompt:**
-Create a clean, modern UI wireframe mockup of a digital attendance screen for an event-management app. Show a mobile phone frame with a simple search bar at the top labeled "Search participant name or ID," a QR code scan icon button, and a scrollable list of participant names below, each with a green checkmark toggle for "Present" and a gray toggle for "Absent." Use Google Material Design colors (blue, green, white, light gray). Minimalist, flat illustration style, high resolution, professional app design.
+<p align="center">
+<img src="assets/event_dashboard.png" alt="Dashboard" width="450">
+</p>
 
 ---
 
@@ -358,10 +354,9 @@ Predictive Analytics (Prediction Model — it estimates what is likely to happen
 
 The Organizer Dashboard (Dashboard — a single screen where all important information is shown together) is the command center for anyone running the event. It shows registrations, attendance in real time, duplicate flags awaiting review, and quick-export buttons for certificates and reports.
 
-[IMAGE PLACEHOLDER]
-
-**Prompt:**
-Design a modern SaaS-style analytics dashboard UI, inspired by Google Material Design and Notion. Show a top navigation bar with "Sahayak AI" logo in blue. Below it, four summary cards in a row: "Total Registrations: 600," "Present Today: 412," "Duplicates Flagged: 14," "Certificates Generated: 586." Under the cards, show a bar chart titled "Branch-wise Participation" and a line chart titled "Registration Trend Over Time" side by side. Use a clean white background, soft shadows on cards, Google color palette (blue, green, yellow, red accents), professional sans-serif typography, high resolution.
+<p align="center">
+<img src="assets/analytics_screen.png" alt="Dashboard" width="900">
+</p>
 
 ---
 
@@ -418,10 +413,9 @@ Events --> Reports
 
 System Architecture means the overall blueprint of how all the parts of Sahayak AI fit and talk to each other.
 
-[IMAGE PLACEHOLDER]
-
-**Prompt:**
-Create a professional system architecture diagram in Google Material Design style. White background, rounded rectangle boxes, blue connecting arrows. Show these connected layers top to bottom: "Google Form (Data Entry)" → "Sahayak AI Core Engine (Validation, Duplicate Detection, Automation)" → "Database (Cloud Storage)" → "Analytics & AI Insights Layer" → "Dashboards (Organizer, Student, Admin)". On the side, show a small icon labeled "Notification System (WhatsApp/Email)" connected to the Core Engine. Use flat minimal icons, soft shadows, professional infographic style, high resolution, 16:9 aspect ratio.
+<p align="center">
+<img src="assets/system_architechture.png" alt="Dashboard" width="900">
+</p>
 
 ```mermaid
 graph TD
@@ -661,10 +655,9 @@ Looking ahead, Sahayak AI can introduce specialized AI agents (An "agent" here m
 
 ## 47. Sample Screens
 
-[IMAGE PLACEHOLDER]
-
-**Prompt:**
-Create a set of three side-by-side mobile/web UI mockup screens in a consistent modern flat design style (Google Material Design inspired, blue/white/gray palette). Screen 1: "Student Dashboard" showing a certificate download card and event schedule. Screen 2: "Organizer Dashboard" showing live attendance counter and a bar chart. Screen 3: "Admin Dashboard" showing a multi-event comparison line chart and total participation numbers. Use soft shadows, rounded corners, clean sans-serif typography, professional SaaS product screenshot style, high resolution.
+<p align="center">
+<img src="assets/ui_mockup.png" alt="Dashboard" width="900">
+</p>
 
 ---
 
